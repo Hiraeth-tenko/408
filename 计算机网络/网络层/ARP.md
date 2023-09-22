@@ -3,16 +3,16 @@ aliases:
 tags:
   - 计算机网络
 date created: 2023-09-19 二 04:25:12
-date modified: 2023-09-19 二 04:25:30
+date modified: 2023-09-22 五 05:11:36
 ---
 
 # Link
 
 ---
 
-Previous:
+Previous:[DHCP](DHCP.md)
 
-Next:
+Next:[ICMP](ICMP.md)
 
 # ARP
 
