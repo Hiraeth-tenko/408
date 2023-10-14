@@ -1,5 +1,5 @@
 ---
-aliases:
+aliases: 
 tags:
   - 计算机组成原理
 date created: 2023-09-21 四 09:19:36
