@@ -3,7 +3,7 @@ aliases:
 tags:
   - 计算机网络
 date created: 2023-09-19 二 04:02:03
-date modified: 2023-09-19 二 04:04:17
+date modified: 2023-10-27 五 10:25:30
 ---
 
 # Link
@@ -27,8 +27,7 @@ Next: [TCP](TCP.md)
 
 ## 报文段结构
 
-![UDP报文段结构](UDP报文段结构.png)
-
+![UDP报文段结构](../../images/计算机网络/UDP报文段结构.png)
 - 首部长度为：8B。
 - 源端口号：16bit。需要对方回信时用到，不需要时可填写全 0。
 - 目的端口号：16bit。
